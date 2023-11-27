@@ -1,0 +1,18 @@
+# Node.js
+node_modules/
+
+# React build
+/build/
+
+# Laravel
+/vendor/
+/storage/
+.env
+
+# PostgreSQL
+/*.sql
+/*.dump
+
+# Logs and backups
+/logs/
+/backup/
