@@ -1,0 +1,44 @@
+.barra {
+  padding: 1.2%;
+  background-color: rgb(23, 99, 165);
+  width: 100%;
+}
+
+.logo {
+  margin-left: 5%;
+  max-width: 20%;
+  padding: 1%;
+}
+
+.formulario {
+  padding-top: 2%;
+  margin-left: 6%;
+  margin-right: 6%;
+}
+
+.formulario h3 {
+  color: rgb(23, 99, 165);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 500;
+}
+
+.submit {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px; /* Ajusta según sea necesario */
+}
+
+.barra-foot {
+  padding: 0.8%;
+  background-color: rgb(95, 103, 109);
+  width: 100%;
+  max-height: 45px;
+  color: white;
+  margin-top: 30px;
+  margin-bottom: 25px;
+}
+
+.barra-foot p {
+  margin-left: 5%;
+}
